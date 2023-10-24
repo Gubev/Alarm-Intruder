@@ -1,0 +1,4 @@
+C:\Users\Sbonelo Gubevu\source\repos\Software Project\Software Project\x64\Debug\SoftwareProject.SystemPrototype.resources
+C:\Users\Sbonelo Gubevu\source\repos\Software Project\Software Project\x64\Debug\Software Project.vcxproj.GenerateResource.cache
+C:\Users\Sbonelo Gubevu\source\repos\Software Project\Software Project\x64\Debug\Software Project.vcxproj.CopyComplete
+C:\Users\Sbonelo Gubevu\source\repos\Software Project\Software Project\x64\Debug\Software Project.vcxproj.AssemblyReference.cache
